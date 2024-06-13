@@ -1,0 +1,43 @@
+{
+    "name": "Bulbasaur",
+    "description": "Bulbasaur (Japanese: フシギダネ Fushigidane) is a dual-type Grass/Poison Pokémon introduced in Generation I.",
+    "image": "ipfs://bafybeih5pp45jr4tekn473mkharftyjdgi27w2vtcgefix4vpyqrkubdqm/Bulbasaur.png",
+    "external_url": "",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Grass"
+        },
+        {
+            "trait_type": "Color",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Personality",
+            "value": "Happy"
+        },
+        {
+            "trait_type": "Generation",
+            "value": 1
+        },
+        {
+            "trait_type": "Level",
+            "value": 1
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Chlorophyll Power",
+            "value": 40
+        },
+        {
+            "display_type": "boost_percentage",
+            "trait_type": "Catch rate",
+            "value": 11.9
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina Increase",
+            "value": 40
+        }
+    ]
+}
